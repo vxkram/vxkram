@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on exploring new AI/ML applications and enhancing my expertise in scalable software solutions.<br>👯 I’m looking to collaborate on AI/ML projects, innovative full-stack development using Python and FastAPI, or advanced web-based applications.<br>🤝 I’m looking for help with Optimizing machine learning models for better performance and scalability in real-world applications.<br>🌱 I’m currently learning Advanced AI techniques and their integration into scalable, real-time applications.<br>
+> I’m currently working on exploring new AI/ML applications and enhancing my expertise in scalable software solutions.<br> > I’m looking to collaborate on AI/ML projects, innovative full-stack development using Python and FastAPI, or advanced web-based applications.<br>🤝 I’m looking for help with Optimizing machine learning models for better performance and scalability in real-world applications.<br>🌱 I’m currently learning Advanced AI techniques and their integration into scalable, real-time applications.<br>
 
 
 ## 🌐 Socials:
