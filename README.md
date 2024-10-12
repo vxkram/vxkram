@@ -6,10 +6,7 @@
 <div align="center"><p>🟢<p align="center" style="font-family: Orbitron;"> PROFILE VISITS</p> <img align="center" src="https://profile-counter.glitch.me/vxkram/count.svg"></div>
 
 
-<br>Currently working on: Exploring AI/ML applications and scalable software solutions.<br>
-Looking to collaborate on: AI/ML projects, full-stack development with Python and FastAPI.
-<br>Need help with: Optimizing ML models for better performance and scalability.
-<br>Currently learning: Advanced AI techniques and real-time applications.
+
 
 
 ## Socials:
