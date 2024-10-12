@@ -23,6 +23,6 @@
 
  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vxkram&hide=javascript,html)
+ <p  align="center"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vxkram&hide=javascript,html)
 
 
