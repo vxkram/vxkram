@@ -23,6 +23,6 @@
 
  
 
- <p  align="center" ><img src="https://github-readme-stats.vercel.app/api?username=vxkram&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"></p>
+ <p  align="center" ><img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=vxkram)](https://github.com/vxkramgithub-readme-stats"></p>
 
 
